@@ -7,7 +7,7 @@ layout: base
 
 ## Course Information
 
-**Class Timing:** Monday - Tuesday, 8:00 AM - 8:58 AM
+**Class Timing:** Monday - Tuesday, 12:00 PM - 01:00 PM
 
 **Syllabus:** [View Syllabus]({{ '/assets/pdfs/syllabus.pdf' | relative_url }})
 
@@ -34,7 +34,7 @@ layout: base
             </td>
             <td></td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td><time datetime="2026-07-07">July 07, 2026</time></td>
             <td>Lecture 2: Classification of Software</td>
             <td>
@@ -44,25 +44,5 @@ layout: base
             </td>
             <td></td>
         </tr>
-        <tr>
-            <td><time datetime="2026-07-13">July 13, 2026</time></td>
-            <td>Lecture 3: Application Software vs. Utility Software</td>
-            <td>
-                <a href="{{ '/lecture-3-application-software-vs-utility-software/' | relative_url }}">
-                    View Notes
-                </a>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><time datetime="2026-07-14">July 14, 2026</time></td>
-            <td>Lecture 4: Introduction to Software Development and Software Engineering</td>
-            <td>
-                <a href="{{ '/lecture-4-introduction-to-software-development-and-software-engineering/' | relative_url }}">
-                    View Notes
-                </a>
-            </td>
-            <td></td>
-        </tr> -->
     </tbody>
 </table>
