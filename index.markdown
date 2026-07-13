@@ -44,5 +44,15 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-07-13">July 13, 2026</time></td>
+            <td>Lecture 3: Application Software vs. Utility Software</td>
+            <td>
+                <a href="{{ '/lecture-3-application-software-vs-utility-software/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
