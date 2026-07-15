@@ -54,5 +54,15 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-07-14">July 14, 2026</time></td>
+            <td>Lecture 4: Introduction to Software Development and Software Engineering</td>
+            <td>
+                <a href="{{ '/lecture-4-introduction-to-software-development-and-software-engineering/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
