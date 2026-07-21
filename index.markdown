@@ -64,5 +64,25 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-07-20">July 20, 2026</time></td>
+            <td>Lecture 5: Software Development Life Cycle (SDLC)</td>
+            <td>
+                <a href="{{ '/lecture-5-software-development-life-cycle-sdlc/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><time datetime="2026-07-21">July 21, 2026</time></td>
+            <td>Lecture 6: Phases of the Software Development Life Cycle</td>
+            <td>
+                <a href="{{ '/lecture-6-phases-of-the-software-development-life-cycle/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
