@@ -84,5 +84,15 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-07-21">July 27, 2026</time></td>
+            <td>Lecture 7: Language Translators – Compiler, Interpreter, and Assembler</td>
+            <td>
+                <a href="{{ '/lecture-7-language-translators-compiler-interpreter-and-assembler/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
