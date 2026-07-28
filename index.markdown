@@ -94,5 +94,18 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td colspan="4"><center>UNIT-II: Introduction to Python Programming and Object-Oriented Concepts</center></td>
+        </tr>
+        <tr>
+            <td><time datetime="2026-07-21">July 28, 2026</time></td>
+            <td>Lecture 8: Introduction to Python Programming</td>
+            <td>
+                <a href="{{ '/lecture-8-introduction-to-python-programming/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
