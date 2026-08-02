@@ -92,7 +92,14 @@ layout: base
                     View Notes
                 </a>
             </td>
-            <td></td>
+            <td>
+                <a href="{{ '/exercise-1/' | relative_url }}">
+                    Exercise-1: MCQs
+                </a><br>
+                <a href="{{ '/exercise-2/' | relative_url }}">
+                    Exercise-2: SAQs
+                </a><br>
+            </td>
         </tr>
         <tr>
             <td colspan="4"><center>UNIT-II: Introduction to Python Programming and Object-Oriented Concepts</center></td>
