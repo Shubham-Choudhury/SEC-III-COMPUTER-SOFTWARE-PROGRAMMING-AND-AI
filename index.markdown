@@ -114,5 +114,19 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-08-03">August 03, 2026</time></td>
+            <td>SEC-II Revision by Soumyadeep Lobwo sir</td>
+            <td>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><time datetime="2026-08-04">August 04, 2026</time></td>
+            <td>SEC-II Revision by Soumyadeep Lobwo sir</td>
+            <td>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
