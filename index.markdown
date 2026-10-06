@@ -128,5 +128,25 @@ layout: base
             </td>
             <td></td>
         </tr>
+        <tr>
+            <td><time datetime="2026-08-03">October 05, 2026</time></td>
+            <td>Lecture 9: Variables, Keywords, Identifiers, Constants, and Data Types in Python</td>
+            <td>
+                <a href="{{ '/lecture-9-variables-keywords-identifiers-constants-and-data-types-in-python/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><time datetime="2026-08-04">October 06, 2026</time></td>
+            <td>Lecture 10: Input, Output, Type Conversion, and String Formatting in Python</td>
+            <td>
+                <a href="{{ '/lecture-10-input-output-type-conversion-and-string-formatting-in-python/' | relative_url }}">
+                    View Notes
+                </a>
+            </td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
